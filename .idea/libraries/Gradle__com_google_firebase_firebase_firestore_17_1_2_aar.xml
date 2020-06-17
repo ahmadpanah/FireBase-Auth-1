@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-firestore:17.1.2@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/caches/transforms-2/files-2.1/2a1ce75d5bfca27bfe2226f53082e9e3/jetified-firebase-firestore-17.1.2/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/caches/transforms-2/files-2.1/2a1ce75d5bfca27bfe2226f53082e9e3/jetified-firebase-firestore-17.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/17.1.2/f3a3d7d87650eb786746f862e99b0f0e253cd0cc/firebase-firestore-17.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
